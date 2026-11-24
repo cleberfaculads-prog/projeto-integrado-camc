@@ -58,3 +58,8 @@ Se eu continuasse, os próximos passos seriam criar no banco as tabelas de colhe
 ## O que eu aprendi
 
 Aprendi bastante errando. No Trello, comecei com um quadro que não era o que o enunciado pedia e tive que refazer. No Packet Tracer, apanhei do aviso de VLAN nativa até entender que as duas pontas do mesmo cabo precisavam estar na mesma VLAN. No Figma, no primeiro dia não passei da capa. E o MySQL só instalou depois que descobri que faltava o Visual C++. Nada disso estava no enunciado, mas foi resolvendo cada problema que eu aprendi a usar as ferramentas de verdade.
+
+
+## Agradecimentos
+
+Quero agradecer aos professores Carlos e Kassya pelo apoio e pelas orientações durante o semestre. Muito do que coloquei em prática neste projeto veio do que aprendi nas aulas deles.
